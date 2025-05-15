@@ -13,7 +13,6 @@ The Shopping Cart is a simple console-based Python application that allows users
 - View all items in the cart
 - Remove items from the cart
 - Calculate total cost
-- User-friendly text-based interface
 
 ---
 
